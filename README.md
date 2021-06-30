@@ -1,2 +1,4 @@
-# flightdeck.ten7.com
-Flight Deck
+# Flight Deck
+
+A set of Docker containers to run Drupal and Wordpress in production using Kubernetes.
+
