@@ -15,10 +15,10 @@ The core of Flightdeck is a library of Docker containers. Designed to run PHP ap
 
 | Service name | Versions | Provides |
 | ------------ | -------- | -------- |
-| web | [7.4](https://hub.docker.com/r/ten7/flightdeck-web-7.4/), [7.3](https://hub.docker.com/r/ten7/flightdeck-web-7.3/) | PHP, Apache, NPM, Drush, and other CLI tools |
-| db | [10.4](https://hub.docker.com/r/ten7/flightdeck-db-10.4/), [10.3](https://hub.docker.com/r/ten7/flightdeck-db-10.3/) | MariaDB (MySQL compatible)
-| solr | [8.6](https://hub.docker.com/r/ten7/flightdeck-solr-8.6/), [6.6](https://hub.docker.com/r/ten7/flightdeck-solr-6.6/) | Apache Solr search engine |
-| varnish | [6.4](https://hub.docker.com/r/ten7/flightdeck-varnish-6.4/) | Varnish caching reverse proxy |
+| web | [7.4](https://github.com/ten7/flightdeck-web-7.4/), [7.3](https://github.com/ten7/flightdeck-web-7.3/) | PHP, Apache, NPM, Drush, and other CLI tools |
+| db | [10.4](https://github.com/ten7/flightdeck-db-10.4/), [10.3](https://github.com/ten7/flightdeck-db-10.3/) | MariaDB (MySQL compatible)
+| solr | [8.6](https://github.com/ten7/flightdeck-solr-8.6/), [6.6](https://github.com/ten7/flightdeck-solr-6.6/) | Apache Solr search engine |
+| varnish | [6.4](https://github.com/ten7/flightdeck-varnish-6.4/) | Varnish caching reverse proxy |
 
 See the links under **Versions** above for container specific documentation and source.
 
@@ -28,8 +28,8 @@ This containers aren't part of Flightdeck, but work well with it:
 
 | Service name | Pull URL | Provides |
 | ------------ | -------- | -------- |
-| pma | [phpmyadmin/phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/) | phpMyAdmin database GUI |
-| mailhog | [mailhog/mailhog](https://hub.docker.com/r/mailhog/mailhog/) | Mail catcher for testing |
+| pma | [phpmyadmin/phpmyadmin](https://github.com//phpmyadmin/phpmyadmin/) | phpMyAdmin database GUI |
+| mailhog | [mailhog/mailhog](https://github.com//mailhog/mailhog/) | Mail catcher for testing |
 | memcached | [memcached:1.6-alpine](https://hub.docker.com/_/memcached/) | Caching object store |
 
 ## Customizing the web container
