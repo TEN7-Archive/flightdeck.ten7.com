@@ -26,7 +26,7 @@ When using Flightdeck, it's best to add it permanently to your project repositor
     ├── core/
     └── index.php
 ```
-2. Using the [sample project](https://github.com/ten7/flightdeck.ten7.io/tree/main/sample-project), add `db-backups/.gitignore` to your project.
+2. Using the [sample project](https://github.com/ten7/flightdeck.ten7.com/tree/main/sample-project), add `db-backups/.gitignore` to your project.
 ```
 /path/to/my_project
 ├── .git/
@@ -36,7 +36,7 @@ When using Flightdeck, it's best to add it permanently to your project repositor
     ├── core/
     └── index.php
 ```
-4. Using the [sample project](https://github.com/ten7/flightdeck.ten7.io/tree/main/sample-project), copy the `docker-compose.yml`, `docker-compose.override.yml.example`, and `flight-deck.yml` into the root of your project.
+4. Using the [sample project](https://github.com/ten7/flightdeck.ten7.com/tree/main/sample-project), copy the `docker-compose.yml`, `docker-compose.override.yml.example`, and `flight-deck.yml` into the root of your project.
 ```
 /path/to/my_project
 ├── .git/
