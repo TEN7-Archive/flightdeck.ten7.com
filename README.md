@@ -42,7 +42,7 @@ Flightdeck has been in use as a production environment on Kubernetes since 2018.
 
 ## Support
 
-You can always [post an issue](https://github.com/ten7/flightdeck.ten7.com/issues/new) on our Github page for general issues. If you have an issue or a feature request for a specific container, please see that container's git repository.
+Flight Deck is developed and supported by [TEN7](https://ten7.com/), whose mission is to Make Things That Matter. Please [post an issue](https://github.com/ten7/flightdeck.ten7.com/issues/new) on our Github page for general issues. If you have an issue or a feature request for a specific container, please see that container's git repository. 
 
 ## License
 
