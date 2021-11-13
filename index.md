@@ -1,5 +1,5 @@
 ---
-title: Computing for COVID
+title: Flightdeck
 layout: page
 show_sidebar: false
 hide_hero: true
