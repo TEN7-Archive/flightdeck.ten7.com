@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /xdebug.html
+title:  Xdebug
+---
+
 # Xdebug
 
 Flight Deck may be configured to support Xdebug, an open source PHP debugger. Using a debugger makes a world of difference if you've been using `print` statements to get your code working.
