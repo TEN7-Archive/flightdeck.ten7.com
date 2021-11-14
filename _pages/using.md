@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /using.html
+title:  Using Flightdeck
+---
+
 # Using Flightdeck
 
 ## Preparation

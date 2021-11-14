@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Flightdeck",
+    "short_name": "flightdeck",
     "icons": [
         {
             "src": "/images/android-chrome-192x192.png",

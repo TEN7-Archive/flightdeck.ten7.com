@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /getting-started-locally.html
+title:  Getting started for local development
+---
+
 # Getting started for local development
 
 Flightdeck has been extensively tested on macOS and Linux, and should work on Windows without issue.
@@ -155,8 +161,8 @@ You only need to create the `docker.test` alias once, no matter how many Flightd
 
 ### Using Flightdeck
 
-See [using](using.md).
+See [using](using.html).
 
 ### XDebug configuration
 
-See [xdebug](xdebug.md).
+See [xdebug](xdebug.html).

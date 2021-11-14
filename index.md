@@ -11,8 +11,8 @@ Flightdeck is a small, minimal set of Docker containers to run PHP applications 
 
 ## Getting started
 
--   [For local development, click here.](getting-started-locally.md)
--   [For Kubernetes deployment, click here.](getting-started-k8s.md)
+-   [For local development, click here.](getting-started-locally.html)
+-   [For Kubernetes deployment, click here.](getting-started-k8s.html)
 
 ## Container Library
 

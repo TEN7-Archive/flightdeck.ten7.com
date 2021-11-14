@@ -57,6 +57,10 @@
 			width: 0.525em;
 		}
 	}
+
+	.navbar-link.no-arrow::after {
+		border: 0;
+	}
 }
 
 .navbar-dropdown .navbar-item-indent {
