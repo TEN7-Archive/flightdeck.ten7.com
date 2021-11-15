@@ -21,7 +21,7 @@
 	}
 
 	.navbar-subitem-title-smaller {
-		@include touch { 
+		@include touch {
 			font-size: 1.35rem;
 		}
 	}
@@ -62,5 +62,14 @@
 
 	.navbar-subitem-title {
 		color: #fff;
+	}
+}
+
+.navbar-item.no-padding .navbar-subitem {
+	border: 0;
+
+	&:hover {
+		background-color: $color-paper;
+		border: 0;
 	}
 }
