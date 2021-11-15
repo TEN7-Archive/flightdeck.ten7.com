@@ -67,8 +67,18 @@
 	@include mobile {
 		padding-left: 3rem;
 	}
-	
+
 	@include tablet-only {
 		padding-left: 5rem;
+	}
+}
+
+.navbar-item.no-padding {
+	@include mobile {
+		padding: 0;
+	}
+
+	@include tablet-only {
+		padding: 0;
 	}
 }
