@@ -21,7 +21,7 @@
 	}
 
 	.navbar-subitem-title-smaller {
-		@include touch {
+		@include touch { 
 			font-size: 1.35rem;
 		}
 	}

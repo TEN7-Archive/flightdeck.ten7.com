@@ -57,17 +57,13 @@
 			width: 0.525em;
 		}
 	}
-
-	.navbar-link.no-arrow::after {
-		border: 0;
-	}
 }
 
 .navbar-dropdown .navbar-item-indent {
 	@include mobile {
 		padding-left: 3rem;
 	}
-
+	
 	@include tablet-only {
 		padding-left: 5rem;
 	}
