@@ -17,6 +17,28 @@ nav:
       is_mobile_nav_item: true
       is_button: true
 
+footer:
+  has_built_with_love: false
+  html: |
+    {{site.title}} ({{site.subtitle}}) published by <a href="https://ten7.com/">TEN7</a> and is licensed under the
+    <a href="https://github.com/ten7/flightdeck.ten7.com/blob/main/LICENSE">GNU General Public License v3.0</a>. Feel free to
+    <a href="https://github.com/ten7/flightdeck.ten7.com">use it for yourself</a>.
+
+google_tag_manager:
+  head_html: |
+    <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N6K9NBR');
+    </script>
+  page_html: |
+    <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6K9NBR"
+    height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+
 markdown: kramdown
 
 collections:
